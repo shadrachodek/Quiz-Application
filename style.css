@@ -47,6 +47,12 @@ body {
   padding: 15px 10px;
 }
 
+#score {
+  text-align: center;
+  font-size: 30px;
+  color: darkblue;
+}
+
 #progres {
   color: #2b2b2b;
 }
